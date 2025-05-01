@@ -1,0 +1,23 @@
+name: Defects
+channels:
+  - conda-forge
+dependencies:
+  # add your dependencies below
+  # pinning versions if necessary 
+  - python=3.11
+  - numpy
+  - scipy
+  - h5py
+  - opencv
+  - pyarrow
+  - pandas
+  # additionally, include these deps
+  - ipywidgets
+  - matplotlib=3.6
+  - ipympl
+  - jupyterlab
+  - jupyterlab-myst
+  - 'nodejs>=20,<21'
+  - mystmd
+
+prefix:  C:\Users\s202856\AppData\Local\miniconda3\envs\Defects  
