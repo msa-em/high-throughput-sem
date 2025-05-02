@@ -1,0 +1,12 @@
+numpy==1.26.4
+scipy
+h5py
+opencv-python
+pyarrow
+pandas
+ipywidgets
+matplotlib==3.6
+ipympl
+jupyterlab
+jupyterlab-myst
+mystmd
