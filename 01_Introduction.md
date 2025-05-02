@@ -1,5 +1,7 @@
 ---
 title: Introduction
+numbering:
+  enumerator: 1.%s
 ---
 
 High-throughput microscopy techniques, including scanning electron microscopy (SEM), have become increasingly important for the time-efficient analysis of large volume samples in materials science [@1].
