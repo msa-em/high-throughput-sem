@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: msa-em-sem-high-throughput-defects-1
+  id: msa-em-high-throughput-sem-1
   title: Optimizing High-Throughput SEM for Large-area Defect Characterization in AM Steel
   short_title: High-Troughput SEM for Defect Detection
   description: This article introduces a practical framework for high-throughput SEM imaging and automated defect detection in additively manufactured steel. It guides readers through optimizing imaging parameters and quantifying how acquisition time impacts detection accuracy, enabling informed trade-offs for efficient large-area analysis
@@ -11,7 +11,7 @@ project:
     - high-throughput SEM
     - defect detection
     - image acquisition optimization
-  github: https://github.com/msa-em/sem-high-throughput-sem
+  github: https://github.com/msa-em/high-throughput-sem
   jupyter: true
   # jupyter:
   #     server:
