@@ -11,7 +11,7 @@ project:
     - high-throughput SEM
     - defect detection
     - image acquisition optimization
-  github: https://github.com/msa-em/sem-high-throughput-defects
+  github: https://github.com/msa-em/sem-high-throughput-sem
   jupyter: true
   # jupyter:
   #     server:
