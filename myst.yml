@@ -53,7 +53,7 @@ project:
         -	Writing – Review & Editing
     - name: Andrei Tudor Durnescu
       email: s225166@student.dtu.dk
-      # orcid: 0000-0001-8338-3323
+      orcid: 0009-0007-1014-9334
       affiliations: [nlab]
       roles:
         -	Software
@@ -62,7 +62,7 @@ project:
         -	Writing – Review & Editing
     - name: Sotero Romero
       email: s225145@student.dtu.dk
-      # orcid: 0000-0003-2348-8558
+      orcid: 0009-0001-3207-4288
       affiliations: [nlab]
       roles:
         -	Software
